@@ -4,12 +4,12 @@
   "emailUserAgentValid": "nenad.tripunovic@dibtravel.com",
   "emailUserAgentInvalid": "",
   "emailInvalid": "nenad12345.tripunovic@dibtravel.com",
-  "passwordValid": "nenadtest",
-  "passwordInvalid": "nenadtest123",
+  "passwordValid": "*********",
+  "passwordInvalid": "********"",
   "agentEmailValid": "nenad@agent.com",
   "agentEmailInvalid": "nenadtripunovic@dibtravel.com",
-  "agentPassValid": "nenad123",
-  "agentPassInvalid": "nenad", 
+  "agentPassValid": "********"",
+  "agentPassInvalid": "********"", 
 
   
   "validationTextLogin": "Business travel made easy",
