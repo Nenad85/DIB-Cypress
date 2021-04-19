@@ -1,0 +1,21 @@
+{
+  "url": "https://release-12-3-0--dib-travel.netlify.app/",
+  "emailValid": "nenad.tripunovic@dibtravel.com",
+  "emailUserAgentValid": "nenad.tripunovic@dibtravel.com",
+  "emailUserAgentInvalid": "",
+  "emailInvalid": "nenad12345.tripunovic@dibtravel.com",
+  "passwordValid": "nenadtest",
+  "passwordInvalid": "nenadtest123",
+  "agentEmailValid": "nenad@agent.com",
+  "agentEmailInvalid": "nenadtripunovic@dibtravel.com",
+  "agentPassValid": "nenad123",
+  "agentPassInvalid": "nenad",
+
+  
+  "validationTextLogin": "Business travel made easy",
+  "validationTextNotLogin": "Login",
+  "validationForgotPassword": "Forgot password",
+  "validationAgentLogin": "Agent login",
+  "validationNewAccount": "Sign up for your 90 days free trial"
+
+}

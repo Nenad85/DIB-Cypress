@@ -1,0 +1,16 @@
+{
+    "url": "https://release-12-3-0--dib-travel.netlify.app/",
+    "emailValid": "nenad.tripunovic@dibtravel.com",
+    "emailIncorect":"nenadewyewyewyeew",
+    "passwordValid": "nenadtest",
+    "firstName": "Nenad",
+    "lastName": "Nenadovic",
+    "validPhone": "+123456",
+    "invalidPhone": "1234",
+    "company": "dibtravel",
+    "companyNo":"23",
+
+    
+    "validationRegistration": "Check your e-mail and activate your account",
+    "validationNotRegistration": "Sign up for your 90 days free trial"
+  }

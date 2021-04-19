@@ -1,0 +1,13 @@
+{
+    "url": "https://release-12-3-0--dib-travel.netlify.app/",
+    
+    "reporter": "cypress-testrail-reporter",
+    "reporterOptions": {
+     "host": "https://dibtesting.testrail.io",
+     "username": "nenad.tripunovic@dibtravel.com",
+     "password": "NenadRail12",
+     "projectId": 2,
+     "suiteId": 4
+    }
+}
+
