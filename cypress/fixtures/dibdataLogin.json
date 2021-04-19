@@ -9,7 +9,7 @@
   "agentEmailValid": "nenad@agent.com",
   "agentEmailInvalid": "nenadtripunovic@dibtravel.com",
   "agentPassValid": "nenad123",
-  "agentPassInvalid": "nenad",
+  "agentPassInvalid": "nenad", 
 
   
   "validationTextLogin": "Business travel made easy",
